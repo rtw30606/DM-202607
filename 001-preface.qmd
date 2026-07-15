@@ -7,8 +7,7 @@ output:
 
 ## The pedagogical advantages of this text {.unnumbered}
 
-This is not your traditional database textbook. It differs in three
-fundamental ways.
+This is not your traditional database textbook. It differs in three fundamental ways.
 
 *First*, it is deeper than most database books in its coverage of data
 modeling and SQL. The market seeks graduates who have these fundamental
