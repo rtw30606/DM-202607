@@ -1,0 +1,81 @@
+project:
+  type: book
+  output-dir: _book
+  
+book:
+  title: "Data Management"
+  subtitle: "Databases and Data Analytics"  
+  author:
+    - name: "Richard T. Watson"
+      affiliation: "Regents Professor & J. Rex Fuqua Distinguished Chair for Internet Strategy Emeritus, University of Georgia, USA"
+      orcid: "0000-0003-0664-8337"
+  date: today
+  date-format: iso
+# store in open/Reader/_book
+  chapters:
+       - index.md
+       # change index for open or 7th edtion
+       - 001-preface.qmd
+       - 100-section.qmd
+       - 101-data.qmd
+       - 102-information.qmd
+       - 200-section.qmd
+       - 203-singleentity.qmd
+       - 204-onetomany.qmd
+       - 205-manytomany.qmd
+       - 206-recursive.qmd
+       - 207-datamodeling.qmd
+#       - 207r-basic-structures.qmd
+       - 208-normalization.qmd
+       - 209-relational-model.qmd
+       - 210-sql.qmd
+       - 300-section.qmd
+       - 311-spatial.qmd
+       - 312-graph.qmd
+       - 313-xml.qmd
+       - 314-orgintel.qmd
+       - 315-IntroR.qmd
+       - 316-dataviz.qmd
+       - 317-textmining.qmd
+       - 318-clustercomputing.qmd
+       - 319-dashboards.qmd
+       - 422-sqljava.qmd
+       - 400-section.qmd
+       - 420-datastrucandstor.qmd
+       - 423-integrity.qmd
+# bibliography: references.bib
+
+  sidebar:
+    pinned: true
+    
+  repo-url: https://www.rstudio.com/   
+  search: 
+    location: sidebar
+    type: textbox
+  downloads: [pdf, epub]
+
+format:
+  html:
+    theme: cosmo
+  epub: 
+    toc-depth: 1
+    issued: 2025
+  pdf:
+    documentclass: scrreprt
+    toc: false
+    toc-depth: 1
+    fontsize: 10 pt
+    mainfont: 'Merriweather'
+    sansfont: 'Merriweather Sans'
+    sansfontoptions: 
+       - 'Scale = 1.0'
+    monofont: 'Source Code Pro'
+    monofontoptions:
+      - 'Scale = 0.9'
+#    pdf-engine: xelatex
+    pdf-engine: lualatex
+  
+    
+
+
+
