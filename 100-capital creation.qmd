@@ -1,0 +1,44 @@
+# Section 1 Capital Creation {.unnumbered}
+
+> *People only see what they are prepared to see*.
+>
+> Ralph Waldo Emerson, *Journals*, 1863
+
+## Capital
+
+When humans started planting seeds and harvesting crops about 11,000 years ago, they created a capital creation system. Centuries of compound growth resulted in the high standard of living enjoyed today (Watson, 2020). Farming led to the creation of economic structures, namely markets and hierarchies. Trading, an early form of a market, is at least 8,000 years old (Bernstein, 2008).
+
+Capital is a durable and transforming factor of production resulting from prior capital investments (Dean & Kretschmer, 2007). Converting capital from one form to another to create more capital is the foundation of all economies, regardless of their political or technological structure.
+
+The capacity to convert and create capital is not constant. The firm that requires more capital than its competitors to produce goods or services receives less profit and will likely disappear from the market. Information systems have been the primary driver of capital productivity gains for the last five or six decades (Stiroh, 2002). The underlying technology that facilitates information systems is constantly evolving, and its innovative deployment changes the nature of capital conversion options. Notably, it can support new ways of organising.
+
+There are six foundational types of capital (@tbl-100_capital). Natural capital was the seed capital for the birth of human civilisation and continues to support capital creation (e.g., agriculture, fishing, logging, and mining).
+
+| Capital | Definition |
+|----------------------|--------------------------------------------------|
+| Economic | Financial, physical, and manufactured resources, and revenue streams |
+| Human | The skills, knowledge, and abilities of a workforce |
+| Natural | Rights to use or extract natural resources, such as land, mineral deposits, and waterways |
+| Organisational | Institutionalised knowledge and codified experience (software and databases), routines, patents, manuals, and structures |
+| Social | An organisation’s social connections |
+| Symbolic | Organisational reputation, image, brands, and ranking within its industry |
+
+: Types of capital {#tbl-100_capital}
+
+## **Systems**
+
+There are five fundamental systems for converting capital from one form to another or enhancing existing capital (@tbl-100_systems). These systems evolved over millions of years. Early hunters developed shared signs and sounds (a system of engagement) to coordinate the pursuit of prey. Over three million years ago, a system of production emerged for fashioning rudimentary knives. Systems of record, such as clay tablets, appeared in the early agricultural societies to record business transactions. Early astronomers recorded the movement of the planets and stars (a system of record), and around two thousand years ago, Ptolemy analysed these data (a system of inquiry) to construct a geocentric model, a theory, to predict the behaviour of the planets with reasonable accuracy (a system of framing). These fundamental systems have been vastly improved over time, and their digitised equivalents exist today as databases (systems of record) and software (systems of production) (Watson, 2020).
+
+|   | Purpose | Mechanisms |
+|-------------------|--------------------|---------------------------------|
+| Engagement | Collaborate and coordinate activities | Sharing mutually-understandable information |
+| Framing | Justify the reason for behaving in a particular way or promoting a particular opinion | Generalising knowledge as theory or framework. Arguing for a viewpoint or action |
+| Inquiry | Generate knowledge | Credible means, such as an objective scientific method, to analyse data |
+| Production | Collaborate and coordinate activities | Standard operating procedures to increase the efficiency of product and service creation, lower transport costs, and enhance transport consistency |
+| Record | Record and retrieve data | Databases, tables, ledgers, and written reports |
+
+: Types of systems {#tbl-100_systems}
+
+![Capital and Systems](Figures/S001/capital_systems.jpeg){#fig-100_capital_systems}
+
+See @fig-100_capital_systems

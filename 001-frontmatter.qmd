@@ -1,0 +1,9 @@
+The Information Systems Picture Book by Richard T. Watson
+
+Copyright © 2025 Richard T. Watson
+
+The online version of this book is licensed under the Creative Commons Attribution-NonCommercialShareAlike 4.0 International License CC BY-NC-SA 4.0.
+
+Release date `{r}  as.Date(Sys.time())`
+
+For more information, visit [richardtwatson.com/open/](https:/www.richardtwatson.com/open/) \newpage

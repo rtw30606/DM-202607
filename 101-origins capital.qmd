@@ -1,0 +1,22 @@
+# Origins of capital {.numbered}
+
+> *People only see what they are prepared to see*.
+>
+> Ralph Waldo Emerson, *Journals*, 1863
+
+
+## The big bang {.unnumbered}
+
+The big bang of around 13.8 billion years ago is ultimately responsible for all capital on earth. The cosmic evolution created matter, radiation, and life. The earth formed about 4.54 billion years ago and life emerged about 550 million years later. Today's humans, homo sapiens, evolved from their predeccesors about 200,000 - 300,000 years ago.
+
+## Physical and biological evolution {.unnumbered}
+
+Since the earth was created it has evolved physically, biologically, and culturally to create today's natural and human capital. This evolutions continues in our dynamic world (@fig-101_origins). [^101-origins-capital-1]
+
+[^101-origins-capital-1]: Chaisson, E. J., & Chaisson, E. (2002). *Cosmic evolution: The rise of complexity in nature*. Harvard University Press. 
+
+![The evolution of capital](Figures/S001/Picture%20book.004.jpeg){#fig-101_origins} 
+
+Human capital
+
+## Cultural evolution {.unnumbered}

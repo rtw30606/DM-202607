@@ -1,0 +1,35 @@
+# The Single Entity
+
+> *I want to be alone.*
+>
+> Attributed to Greta Garbo
+
+#### Learning Objectives {.unnumbered}
+
+Students completing this chapter will be able to
+
+-   model a single entity;
+
+-   define a single database;
+
+-   write queries for a single-table database.
+
+##  {.unnumbered}
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE, suppressWarnings()}
+library(DBI)
+library(RMySQL)
+db <- dbConnect(RMySQL::MySQL(),
+                  dbname = "Text",
+                  host = "localhost",
+                  user="student",
+                  password = "student")
+```
+
+
+```{sql}
+#| eval: T
+#| max.print: -1
+#| connection: db
+SELECT * FROM share;
+```
